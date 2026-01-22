@@ -4,6 +4,10 @@ The OpenMRG data set
 Version: 1.1
 DOI: https://doi.org/10.5281/zenodo.6673750
 Licence: https://creativecommons.org/licenses/by-sa/4.0
+--------
+
+
+
 
 --------
 Description of files in the folder "cml"
@@ -26,3 +30,4 @@ The Radar data is provided in a NetCDF file and is called radar.nc. It consists 
 Description of files in the folder "Torslanda-event-2015-07-28"
 
 In addition to the data we also include some illustrations of the Torslanda event observed on 28th July 2015: 1) an interactive HTML file showing time series of the Torslanda gauge, nearby CMLs and overlying radar pixel (Torslanda-interactive-time-series.zip). 2) a video animation showing the evolution of the radar field during the event (Torslanda-radar-animation.mp4). 
+
